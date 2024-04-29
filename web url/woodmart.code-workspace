@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "woodmart",
+			"path": ".."
+		},
+		{
+			"name": "webfonts",
+			"path": "../../education web/educatin/webfonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "woodmart",
+		"liveServer.settings.port": 5501
+	}
+}
